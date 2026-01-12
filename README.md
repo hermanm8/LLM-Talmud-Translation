@@ -43,3 +43,4 @@ Evaluator comments are in:
 Generated outputs are located in:
 - `QA Results/`
 - `Translation_Results/`
+- Talmud Translation - GPT-3.5 / 
